@@ -10,3 +10,6 @@ cd backend/ && npm install && npm start
 ```shell
 cd frontend/ && npm install && npm start
 ```
+
+## Link to Course
+[YouTube/ErickWendel](https://www.youtube.com/watch?v=OG_qqYzcfFk&t=1940s&ab_channel=ErickWendel)
